@@ -6,13 +6,14 @@ from "https://www.gstatic.com/firebasejs/12.2.1/firebase-database.js";
 
 // Paste the same Firebase configuration used in script.js.
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT.firebaseapp.com",
-    databaseURL: "YOUR_DATABASE_URL",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_STORAGE_BUCKET",
-    messagingSenderId: "YOUR_SENDER_ID",
-    appId: "YOUR_APP_ID"
+    apiKey: "AIzaSyDR5xvC3YIb8LJgp1fgxBonIB68jcEw-IA",
+    authDomain: "collegevent-reg.firebaseapp.com",
+    databaseURL: "https://collegevent-reg-default-rtdb.asia-southeast1.firebasedatabase.app",
+    projectId: "collegevent-reg",
+    storageBucket: "collegevent-reg.firebasestorage.app",
+    messagingSenderId: "1089282137390",
+    appId: "1:1089282137390:web:d98ed56aadfa0c04602ebf",
+    measurementId: "G-3NYMVK0BRM"
 };
 
 const app = initializeApp(firebaseConfig);

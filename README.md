@@ -25,6 +25,7 @@ A real-time college event registration application using HTML, CSS, JavaScript a
 5. Run `index.html` using VS Code Live Server.
 
 ## Team Members
-1. __________________
-2. __________________
+1. Nandhitha A
+2. Monika L
 3. __________________
+4. __________________

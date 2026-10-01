@@ -6,7 +6,7 @@ from "https://www.gstatic.com/firebasejs/12.2.1/firebase-database.js";
 
 // Paste the same Firebase configuration used in script.js.
 const firebaseConfig = {
-    apiKey: "AIzaSyDR5xvC3YIb8LJgp1fgxBonIB68jcEw-IA",
+    apiKey: "AIzaSyAl9KgN9KhXSGsNAT0f0q5fCeQQhLAPtgg",
     authDomain: "collegevent-reg.firebaseapp.com",
     databaseURL: "https://collegevent-reg-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "collegevent-reg",

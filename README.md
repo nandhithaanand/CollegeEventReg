@@ -27,5 +27,3 @@ A real-time college event registration application using HTML, CSS, JavaScript a
 ## Team Members
 1. Nandhitha A
 2. Monika L
-3. __________________
-4. __________________

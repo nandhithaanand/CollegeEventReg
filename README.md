@@ -24,6 +24,9 @@ A real-time college event registration application using HTML, CSS, JavaScript a
 4. Copy the Firebase configuration into `script.js` and `admin.js`.
 5. Run `index.html` using VS Code Live Server.
 
+## Team Name
+Infinix
+
 ## Team Members
 1. Nandhitha A
 2. Monika L
